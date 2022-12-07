@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Shubhamtribhuvan8
-- 👀 I’m interested in 
-- 🌱 I’m currently learning Full stack Web development
+- 👋 Hi, I’m Shubham Tribhuvan
+- 👀 I’m interested in Travelling,Exploring New Things
+- 🌱 I’m currently learning Full stack Web development(MERN)@Masai School
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me !
+- 📫 How to reach me Shubhamtribhuvan8@gmail.com
 
 <!---
 Shubhamtribhuvan8/Shubhamtribhuvan8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
