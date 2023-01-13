@@ -30,9 +30,12 @@
 ## 📊 My Github Stats
   <br/>
     <a href="https://github.com/Shubhamtribhuvan8/github-readme-stats"><img alt="Shubhamtribhuvan8s Github Stats" src="https://github-readme-stats.vercel.app/api?username=Shubhamtribhuvan8&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    
   <a href="https://github.com/Shubhamtribhuvan8/github-readme-stats"><img alt="Shubhamtribhuvan8's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamtribhuvan8&langs_count=8&count_private=true&layout=compact&exclude_repo=Shubhamtribhuvan8.github.io,c3,test,web-Coding,ZaraWeb-Clone&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
 
 <br/>
 <br/>
