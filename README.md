@@ -4,11 +4,11 @@
 
 [![MasteHead](https://camo.githubusercontent.com/2dcf1a73f7dcb84e53882d821de7b61d4362388b92e1f9d974563c489abeb342/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3730302f302a4647443642557a7a5a7331564a4c75592e676966)]
 
-- 🌱 I’m currently learning **Java,Data-Structure & Algorithm**
+- 🌱 I’m currently learning **Java,Javascript,React,Data-Structure & Algorithm**
 
 - 👨‍💻 All of my projects are available at [Portfolio]
 
-- 💬 Ask me about **Java,Data-Structure & Algorithm, Html-Css, Javascript, Bootstrap**
+- 💬 Ask me about **C,Java,Data-Structure & Algorithm, Html-Css, Javascript, Node.js, Bootstrap**
 
 - 📫 How to reach me **shubhamtribhuvan8@gmail.com**
 
@@ -23,26 +23,8 @@
        alt="snake" /></a>
 </div>   
 </div>
-
-
-
-
-## 📊 My Github Stats
-  <br/>
-    <a href="https://github.com/Shubhamtribhuvan8/github-readme-stats"><img alt="Shubhamtribhuvan8s Github Stats" src="https://github-readme-stats.vercel.app/api?username=Shubhamtribhuvan8&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    
-  <a href="https://github.com/Shubhamtribhuvan8/github-readme-stats"><img alt="Shubhamtribhuvan8's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamtribhuvan8&langs_count=8&count_private=true&layout=compact&exclude_repo=Shubhamtribhuvan8.github.io,c3,test,web-Coding,ZaraWeb-Clone&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
 <br/>
 <br/>
-
-    
-
-   
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shubhamtribhuvan8&&theme=tokyonight" alt="Shubhamtribhuvan8" /></p>
