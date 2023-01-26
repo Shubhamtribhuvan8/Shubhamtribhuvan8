@@ -31,6 +31,7 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shubhamtribhuvan8&&theme=tokyonight" alt="Shubhamtribhuvan8" /></p>
+<a href="https://github.com/Shubhamtribhuvan8/github-readme-stats"><img alt="Shubhamtribhuvan8's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamtribhuvan8&langs_count=8&count_private=true&layout=compact&exclude_repo=Shubhamtribhuvan8.github.io,c3,test,web-Coding,ZaraWeb-Clone&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 ![snake gif](https://github.com/Shubhamtribhuvan8/Shubhamtribhuvan8/blob/output/github-contribution-grid-snake.gif)
 
