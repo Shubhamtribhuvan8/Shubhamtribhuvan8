@@ -37,5 +37,5 @@
 ![snake gif](https://github.com/Shubhamtribhuvan8/Shubhamtribhuvan8/blob/output/github-contribution-grid-snake.gif)
 
 
-[![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shubhamtribhuvan8)](https://github.com/Shubhamtribhuvan8/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shubhamtribhuvan8&show_icons=true&theme=dark)
 
