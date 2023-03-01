@@ -6,13 +6,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shubhamtribhuvan8&label=Profile%20views&color=0e75b6&style=flat" alt="Shubhamtribhuvan8" /> </p>
 
 - 🌱 I’m currently learning **Java,Javascript,React,Data-Structure & Algorithm**
-   
-- 👨‍💻 All of my projects are available at [Portfolio]
-
+- 
 - 👨‍💻 Check  My Portfolio :<a href="https://shubhamtribhuvan8.github.io/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3242/3242257.png" alt="shubhamtribhuvan8" height="30" width="40" /></a>
 </p>
 
-- 💬 Ask me about **C,Java,Data-Structure & Algorithm, Html-Css, Javascript, Node.js, Bootstrap**
+- 💬 Ask me about **Java,Data-Structure & Algorithm, Html-Css, Javascript, Node.js, Bootstrap**
 
 - 📫 How to reach me **shubhamtribhuvan8@gmail.com**
 
