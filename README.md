@@ -35,10 +35,10 @@
 <br>
 
 
-<!-- <div align="center">
+<div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
-</div>    -->
+</div>   
 </div>
 <br/>
 <br/>
@@ -48,7 +48,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamtribhuvan8&theme=tokyonight" alt="Shubhamtribhuvan8"/></p>
 
-<p align="center"><img align="center" src="https://github.com/Shubhamtribhuvan8/Shubhamtribhuvan8/blob/output/github-contribution-grid-snake.gif" alt="Shubhamtribhuvan8"/></p>
+<!-- <p align="center"><img align="center" src="https://github.com/Shubhamtribhuvan8/Shubhamtribhuvan8/blob/output/github-contribution-grid-snake.gif" alt="Shubhamtribhuvan8"/></p> -->
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Shubhamtribhuvan8&show_icons=true&theme=dark" alt="Shubhamtribhuvan8"/></p>
 
