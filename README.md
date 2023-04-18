@@ -31,6 +31,7 @@
 <!--     <a style="padding-right:8px;" href="[https://www.google.com/sheets/about/](https://www.typescriptlang.org/)" target="_blank"> <img height="60px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png"/></a> -->
     <a style="padding-right:8px;" href="https://www.mongodb.com/home" target="_blank"> <img height="60px" src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg"/></a>
     <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/545/451/png-transparent-node-js-express-js-javascript-solution-stack-web-application-others-angle-text-rectangle-thumbnail.png" alt="express" height="60px"/> </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--TenQsTYv--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rd3omc5vp71r5k9z69b4.png" alt="nextjs" height="60px"/> </a>
 </p> 
 <br>
 
