@@ -36,6 +36,8 @@
    <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" alt="nestjs" height="60px"/> </a>
     <a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-512/docker-12-1175229.png?f=avif&w=256" alt="docker" height="60px"/> </a>
   <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="mysql" height="60px"/> </a>
+<a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://about.gitlab.com/images/press/logo/png/gitlab-logo-100.png" alt="gitlab" height="60px"/> </a>
+
 </p> 
 <br>
 
