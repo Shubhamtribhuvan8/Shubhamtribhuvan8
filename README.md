@@ -34,6 +34,7 @@
     <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/545/451/png-transparent-node-js-express-js-javascript-solution-stack-web-application-others-angle-text-rectangle-thumbnail.png" alt="express" height="60px"/> </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/N/nextjs-logo-963D40B71E-seeklogo.com.png" alt="nextjs" height="60px"/> </a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://v2.vuejs.org/images/logo.svg" alt="vuejs" height="60px"/> </a>
+  <a href="https://vuexstore.org/" target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/digitalfortress.tech/wp-content/uploads/2018/09/Vuex.png?resize=300%2C127&ssl=1" alt="vuex" height="60px"/> </a>
   <a href="https://vitest.dev/" target="_blank" rel="noreferrer"> <img src="https://vitest.dev/logo.svg" alt="vitest" height="60px"/> </a>
    <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" alt="nestjs" height="60px"/> </a>
     <a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-512/docker-12-1175229.png?f=avif&w=256" alt="docker" height="60px"/> </a>
