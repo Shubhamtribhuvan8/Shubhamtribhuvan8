@@ -33,6 +33,7 @@
     <a style="padding-right:8px;" href="https://www.mongodb.com/home" target="_blank"> <img height="60px" src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg"/></a>
     <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/545/451/png-transparent-node-js-express-js-javascript-solution-stack-web-application-others-angle-text-rectangle-thumbnail.png" alt="express" height="60px"/> </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/N/nextjs-logo-963D40B71E-seeklogo.com.png" alt="nextjs" height="60px"/> </a>
+  <a href="[https://nextjs.org/](https://vitest.dev/)" target="_blank" rel="noreferrer"> <img src="https://vitest.dev/logo.svg" alt="vitest" height="60px"/> </a>
    <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" alt="nestjs" height="60px"/> </a>
     <a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-512/docker-12-1175229.png?f=avif&w=256" alt="docker" height="60px"/> </a>
   <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="mysql" height="60px"/> </a>
